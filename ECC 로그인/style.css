@@ -1,0 +1,121 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css); 
+
+:root {
+
+    /* color */
+    --white-color: #fff;
+    --black-color: #333;
+    --main-color: #3763FF;
+    --sub-color: #3763FF;
+    --grey-color: #999;
+    --notification-color: FF0000;
+
+    /* size */
+
+    /* font- size */
+    --font-large: 18px;
+    --font-medium: 16px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #fafafa;
+    letter-spacing: -0.12vh;
+}
+
+body {
+    font-family: "Noto Sans KR", sans-serif; 
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+/* 헤더 */
+
+.header-wrap {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.logo-subtitle {
+    color: #9db2ff;
+    margin-top: 8px;
+    font-size: var(--font-medium);
+    font-weight: bold;
+}
+
+.top-titles {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.top-title {
+    font-size: 46px;
+    letter-spacing: -1px;
+    color: #333;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.top-titles .sub-title {
+    font-size: 18px;
+    color: var(--grey-color);
+    font-weight: 500;
+    margin-left: 3px;
+    margin-top: 2px;
+    margin-bottom: 40px;
+    letter-spacing: -1px;
+}
+/* 정보란 */
+
+.inputs .inputs-wrap {
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+.input {
+    height: 60px;
+    width: 400px;
+    font-size: 16px;
+    outline: 0;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    border-color: #e3e3e3;
+    padding-left: 110px;
+    cursor: pointer;
+}
+
+input::placeholder {color:#ccc;}
+input::-webkit-input-placeholder {color:#ccc;}
+input:-ms-input-placeholder {color:#ccc;}
+
+.input:focus {
+    border-color: var(--main-color);
+}
+
+.inputs .inputs-wrap .input-name {
+    position: relative;
+    padding-top: 18.5px;
+    font-weight: 400;
+    background-color: transparent;
+    font-size: 15px;
+    z-index: 1;
+    left: 50px;
+    text-align: center;
+    color: #333;
+}
+
+#alert {
+    color: red;
+    text-align: center;
+    padding-top: 8px;
+    padding-right: 82px;
+    font-size: 14px;
+    display: none;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECC SignUp</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <!-- 메인 로고 -->
+    <header>
+        <div class="header-wrap">
+            <a href="#"><img src="image/main logo.png" alt="">
+            <p class="logo-subtitle">Expanded Core Curriculum</p>
+            </a>
+        </div>
+    </header>
+
+    <!-- 회원정보입력 제목 -->
+    <section class="top-titles">
+        <h2 class="top-title">회원정보 입력</h2>
+        <h2 class="sub-title">가입 당시 입력하셨던 정보를 입력해주세요.</h2>
+    </section>
+
+    <!-- 인풋란  -->
+    <section class="inputs">
+            
+            <div class="inputs-wrap">
+            <a href=#input><p class="input-name">이름</p></a>
+            <input class="input" id="input" type="text" placeholder="이름을 입력해주세요.">
+            </div>
+            <div id="alert">한글과 영문 대소문자를 사용하세요. (특수기호, 공백 사용 불가)</div>
+        
+    </section>
+
+    <script>
+        document.getElementById('alert') = 'block';
+
+    </script>
+    
+    <!-- 회원가입 버튼 -->
+    <section class="signup-button"></section>
+</body>
+</html>
