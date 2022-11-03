@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "962B2E0A-5396-4EF3-A5C2-C1CD439820CB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tuto/CustomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "cornerRadius"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - 70f50f528169ba28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.cornerRadius.getter : CoreGraphics.CGFloat"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - 3b1a4a3d7720ea3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.cornerRadius.setter : CoreGraphics.CGFloat"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - fdc9c27e828c7e2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.cornerRadius.modify : CoreGraphics.CGFloat"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - 84e371b6ee23503c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.cornerRadius.modify : CoreGraphics.CGFloat with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - 3518fe4d738e89c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.init(frame: __C.CGRect) -&gt; tuto.CustomView"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "0B44F857-A731-474E-887C-CB99CAEDE32A - 1f49009e38a2ab44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tuto.CustomView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tuto.CustomView&gt;"
+                  moduleName = "tuto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeon-wongeun/Desktop/ttt/tuto/tuto/CustomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
